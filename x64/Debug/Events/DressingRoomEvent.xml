@@ -1,0 +1,9 @@
+<scenario currentRoom="dressing room">more black men in dress. You put on a pretty bright blue dress, (Like the one Kevin Hart wore) People are starring.</scenario>
+
+<prompt>What do you do?</prompt>
+
+<choice decision="cry outside">Your ego is ruin and you run out the back entrance.</choice>
+<choice decision="die">You wanna be put down like a mutt.</choice>
+
+<outcome decision="cry outside" room="backyard">you run to the backyard...</outcome>
+<outcome decision="die" room="end">Ran out of idea... sorry developer... :) *end* </outcome>

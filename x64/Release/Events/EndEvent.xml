@@ -1,0 +1,19 @@
+<scenario currentRoom="end">this is the end I ran outta ideas...</scenario>
+
+<prompt>What do you want to do. Where do you want to go?</prompt>
+
+<choice decision="go living room">go to living room</choice>
+<choice decision="go kitchen">go to kitchen.</choice>
+<choice decision="go bathroom">go to bathroom</choice>
+<choice decision="go backyard">go to backyard</choice>
+<choice decision="go bedroom1">go to bedroom1</choice>
+<choice decision="go dressing room">go to dressing room</choice>
+<choice decision="go storage closet">go to storage closet</choice>
+
+<outcome decision="go living room" room="living room">go to living room</outcome>
+<outcome decision="go kitchen" room="kitchen">go to kitchen.</outcome>
+<outcome decision="go bathroom" room="bathroom">go to bathroom</outcome>
+<outcome decision="go backyard" room="backyard">go to backyard</outcome>
+<outcome decision="go bedroom1" room="bedroom1">go to bedroom1</outcome>
+<outcome decision="go dressing room" room="dressing room">go to dressing room</outcome>
+<outcome decision="go storage closet" room="storage closet">go to storage closet</outcome>

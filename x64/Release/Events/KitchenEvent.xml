@@ -1,0 +1,11 @@
+<scenario currentRoom="kitchen">You enter the kitchen to find a female in a chef outfit she turns around to look at you and begins to speak.</scenario>
+
+<prompt>"I've been waiting, my love. I want you to take me right here, right now!" What do you do?</prompt>
+
+<choice decision="have sex">*You rip all your clothes* HELL yeah!</choice>
+<choice decision="wrong room">I'm in the wrong room... ha! I must be going.</choice>
+<choice decision="no">I will not have sex with you, you whore!</choice>
+
+<outcome decision="have sex" room="bedroom1">She hops on your bare chest and kisses you all over, "I lied, let's take this into the bedroom"</outcome>
+<outcome decision="wrong room" room="storage closet">Well fuck you to then. She grabs you and throws you into the storage closet</outcome>
+<outcome decision="no" room="backyard">"I will fuckin' kill your ass!" Her eyes turns red and she throws you out the window, you are now in the backyard.</outcome>

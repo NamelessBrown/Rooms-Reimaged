@@ -1,0 +1,9 @@
+<scenario currentRoom="backyard">A loud dog barks at you and it appears to be coming towards</scenario>
+
+<prompt>What do you do?</prompt>
+
+<choice decision="run inside">You run towards the front of the yard, the dog still chases you. You run right into the front door!</choice>
+<choice decision="fight">You stand your ground! You fight this damn dog.</choice>
+
+<outcome decision="run inside" room="living room">You run stright into the front door and enter the living room *Here we go again...* </outcome>
+<outcome decision="fight" room="end">The developer hasn't made a fighting scene *end game* </outcome>

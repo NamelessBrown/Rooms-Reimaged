@@ -1,0 +1,11 @@
+<scenario currentRoom="storage closet">You find a bunch of supplies and use everything you can to fix yourself. This is a dead end. you must leave </scenario>
+
+<prompt>What do you do?</prompt>
+
+<choice decision="open door">You open the door and you're back in the kitchen</choice>
+<choice decision="use trapdoor">You notice the trapdoor and use it</choice>
+<choice decision="stay there">you're a idiot and nothing is going to change.</choice>
+
+<outcome decision="open door" room="kitchen">You find yourself in the kitchen *on boy not again....*</outcome>
+<outcome decision="use trapdoor" room="bathroom">You enter the bathroom. *I'm I in a loop?* </outcome>
+<outcome decision="stay there" room="storage closet">wtf, this does nothing LOL! *repeat*</outcome>

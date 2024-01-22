@@ -1,0 +1,11 @@
+<scenario currentRoom="living room">You walk around the Living room to see a bunch of black men wearing dresses circled around a few people in suits. The people in suits comes from all around the world. "Where the fuck am I?" You ask yourself One of the guys in the suits notice you enter the room.</scenario>
+
+<prompt>"Well, what are you?" he asks.</prompt>
+
+<choice decision="put on dress">"I'm black just like them, ha! I'm late to rehearsal. *puts on dress*</choice>
+<choice decision="biggest penis">"I'm the one asking the questions here, which guy here has the biggest dick in the dress?</choice>
+<choice decision="wrong building">"Wrong building, I think I was supposed to go to the building over... Ha ha ha... I'll let you guys be.</choice>
+
+<outcome decision="put on dress" room="dressing room">"Oh ok, I can't wait to see what you look like you sexy milk chocolate... Go into the Dressing room and change.</outcome>
+<outcome decision="biggest penis" room="kitchen">"You must be the guy in the anonymous email. Go to the kitchen and gets youself a drink</outcome>
+<outcome decision="wrong building" room="backyard">You leave the building and take a big breath... You walk toward the backyard</outcome>

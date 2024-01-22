@@ -1,0 +1,9 @@
+<scenario currentRoom="bathroom">You take a long leak and reflect on what has happen so far. All of a sudden you hear bangs from the door!</scenario>
+
+<prompt>What do you do?</prompt>
+
+<choice decision="remain silent">*say nothing* you see a trapdoor</choice>
+<choice decision="someone in here">you yell, "SOMEBODY'S IN HERE! GET LOST!"</choice>
+
+<outcome decision="remain silent" room="storage closet">You go into the trap door. You find a light and turn it out, you then see a sign *storage closet*</outcome>
+<outcome decision="someone in here" room="bedroom1">The door burst open, you notice its one of the black guy in a dress, "YOUR TURN!" he screams. You dodge him and enter the room next to the bathroom *bedroom* </outcome>

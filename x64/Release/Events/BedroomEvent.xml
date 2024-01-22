@@ -1,0 +1,11 @@
+<scenario currentRoom="bedroom1">You lay in bed and notice BED BUGS!</scenario>
+
+<prompt>What do you do?</prompt>
+
+<choice decision="jump out window">You jump out the window!</choice>
+<choice decision="supplies">Run into the storage closet to get supplies</choice>
+<choice decision="lay there">This is fine... You lay there...</choice>
+
+<outcome decision="jump out window" room="backyard">You find yourself in the backyard</outcome>
+<outcome decision="supplies" room="storage closet">You go to the storage closet to fix yourself</outcome>
+<outcome decision="lay there" room="end">developer is a lazy suck of poop, and is taking you here now... *end*</outcome>
